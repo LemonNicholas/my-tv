@@ -1,0 +1,115 @@
+#EXTM3U
+# Playlist checked: 2026-09-07
+# Requires User-Agent: Mozilla/5.0
+# CarTV compatibility has not been tested.
+
+#EXTINF:-1 tvg-id="8TV.my" group-title="马来西亚",八度空间 8TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/8tv
+
+#EXTINF:-1 tvg-id="TVBJade.hk" group-title="香港",TVB 翡翠台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/fct
+
+#EXTINF:-1 tvg-id="TVBEntertainmentNews.hk" group-title="香港",TVB 娱乐新闻台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/ylxw
+
+#EXTINF:-1 tvg-id="LungHuaWesternMovies.tw" group-title="台湾电影",龙华洋片（抽查确认中文字幕）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/lhyp
+
+#EXTINF:-1 group-title="台湾电影",龙华电影（华语电影／抽查确认中文字幕）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/lhdy
+
+#EXTINF:-1 tvg-id="LungHuaCartoon.tw" group-title="儿童频道",龙华卡通（台湾）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/lhkt
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD" group-title="国际儿童频道",Moonbug Kids（美国 Roku 源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="国际儿童频道",Disney Junior（美国源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.us@East" group-title="国际儿童频道",Nick Jr.（美国源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://sra72yz.s.gy/NICK_JR_US.m3u8
+
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us@US" group-title="国际儿童频道",Nick Jr. Pluto TV（美国源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us@CA" group-title="国际儿童频道",Nick Jr. Pluto TV（加拿大源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
+
+#EXTINF:-1 tvg-id="PBSKids.us@SD" group-title="国际儿童频道",PBS Kids（美国源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+
+#EXTINF:-1 tvg-id="PeppaPig.us@SD" group-title="国际儿童频道",Peppa Pig 小猪佩奇（美国源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
+
+#EXTINF:-1 tvg-id="SpongeBobSquarePants.us@CA" group-title="国际儿童频道",SpongeBob 海绵宝宝（加拿大源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
+
+#EXTINF:-1 tvg-id="Teletubbies.uk@SD" group-title="国际儿童频道",Teletubbies 天线宝宝
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="HappyKids.us@SD" group-title="国际儿童频道",HappyKids（美国源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD" group-title="国际儿童频道",Kartoon Channel（澳洲分发源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ToonGoggles.us@SD" group-title="国际儿童频道",ToonGoggles（澳洲分发源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.us@East" group-title="国际儿童频道",Disney XD（美国源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonPlutoTV.us@SD" group-title="国际儿童频道",Nickelodeon Pluto TV（美国源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="综合频道（含非儿童时段）",Nickelodeon／Nick at Nite（美国，夜间非幼儿）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+
+#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" group-title="西洋影集（中文字幕）",AXN 台湾（西洋影集／抽查确认中文字幕）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+http://125.227.210.55:4050/VideoInput/play.ts
