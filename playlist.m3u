@@ -1,5 +1,5 @@
 #EXTM3U
-# Playlist checked: 2026-09-07
+# Playlist updated: 2026-09-08; Jade alternatives, Astro/Chinese channels and international movie additions checked today
 # Requires User-Agent: Mozilla/5.0
 # CarTV compatibility has not been tested.
 
@@ -8,7 +8,17 @@
 #EXTHTTP:{"User-Agent":"Mozilla/5.0"}
 https://cdn.qd.je/163189/8tv
 
-#EXTINF:-1 tvg-id="TVBJade.hk" group-title="香港",TVB 翡翠台
+#EXTINF:-1 tvg-id="TVBJade.hk" group-title="香港",TVB 翡翠台（新版 AAC）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/fct2
+
+#EXTINF:-1 tvg-id="TVBJade.hk" group-title="香港",TVB 翡翠台（备用线路／画面中文字幕）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+http://120.234.44.98:18180/TV00000000000000000032@HHZT
+
+#EXTINF:-1 tvg-id="TVBJade.hk" group-title="香港",TVB 翡翠台（旧源备用）
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"User-Agent":"Mozilla/5.0"}
 https://cdn.qd.je/163189/fct
@@ -113,3 +123,83 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"User-Agent":"Mozilla/5.0"}
 http://125.227.210.55:4050/VideoInput/play.ts
+
+#EXTINF:-1 group-title="马来西亚",Astro AEC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/aec
+
+#EXTINF:-1 group-title="马来西亚中文电影",天映频道 Celestial Movies（马来西亚源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/typd2
+
+#EXTINF:-1 group-title="马来西亚中文电影",天映经典 CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/ccm2
+
+#EXTINF:-1 group-title="马来西亚港剧",Astro AOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/aod
+
+#EXTINF:-1 group-title="TVB 港剧",TVB 星河
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/tvbxh2
+
+#EXTINF:-1 group-title="TVB 经典港剧",TVB 千禧经典台（非 Astro 305）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/tvbc
+
+#EXTINF:-1 group-title="英语电影（不保证中文字幕）",Gravitas Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+
+#EXTINF:-1 group-title="英语电影（不保证中文字幕）",MovieSphere（美国）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="英语电影（不保证中文字幕）",MovieSphere（澳洲）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+
+#EXTINF:-1 group-title="英语电影（不保证中文字幕）",MovieSphere（英国）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="英语电影（不保证中文字幕）",FilmRise Westerns（经典西部片）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+
+#EXTINF:-1 group-title="英语电影（不保证中文字幕）",Hallmark Movies & More
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+
+#EXTINF:-1 group-title="英语电影（不保证中文字幕）",MyTime Movie Network（澳洲源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="英语电影（不保证中文字幕）",Rakuten Action Movies（英国）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+
+#EXTINF:-1 group-title="英语电影／影集（不保证中文字幕）",HBO Hits（美国源／台名待核实）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+
+#EXTINF:-1 group-title="英语电影／影集（不保证中文字幕）",HBO Movies（美国源／台名待核实）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
