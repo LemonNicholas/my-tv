@@ -8,35 +8,65 @@
 #EXTHTTP:{"User-Agent":"Mozilla/5.0"}
 https://cdn.qd.je/163189/8tv
 
+#EXTINF:-1 group-title="马来西亚",Astro AEC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/aec
+
+#EXTINF:-1 group-title="马来西亚",天映频道 Celestial Movies（马来西亚源）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/typd2
+
+#EXTINF:-1 group-title="马来西亚",天映经典 CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/ccm2
+
+#EXTINF:-1 group-title="马来西亚",Astro AOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/aod
+
+#EXTINF:-1 group-title="马来西亚",Astro 欢喜台
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/hxt
+
+#EXTINF:-1 tvg-id="LungHuaWesternMovies.tw" group-title="台湾",龙华洋片（抽查确认中文字幕）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/lhyp
+
+#EXTINF:-1 group-title="台湾",龙华电影（华语电影／抽查确认中文字幕）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+https://cdn.qd.je/163189/lhdy
+
+#EXTINF:-1 group-title="台湾",TVBS 亚洲台（综合／生活谈话）
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVBJade.hk" group-title="香港",TVB 翡翠台（新版 AAC）
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"User-Agent":"Mozilla/5.0"}
 https://cdn.qd.je/163189/fct2
-
-#EXTINF:-1 tvg-id="TVBJade.hk" group-title="香港",TVB 翡翠台（备用线路／画面中文字幕）
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
-http://120.234.44.98:18180/TV00000000000000000032@HHZT
-
-#EXTINF:-1 tvg-id="TVBJade.hk" group-title="香港",TVB 翡翠台（旧源备用）
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
-https://cdn.qd.je/163189/fct
 
 #EXTINF:-1 tvg-id="TVBEntertainmentNews.hk" group-title="香港",TVB 娱乐新闻台
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"User-Agent":"Mozilla/5.0"}
 https://cdn.qd.je/163189/ylxw
 
-#EXTINF:-1 tvg-id="LungHuaWesternMovies.tw" group-title="台湾电影",龙华洋片（抽查确认中文字幕）
+#EXTINF:-1 group-title="香港",TVB 星河
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"User-Agent":"Mozilla/5.0"}
-https://cdn.qd.je/163189/lhyp
+https://cdn.qd.je/163189/tvbxh2
 
-#EXTINF:-1 group-title="台湾电影",龙华电影（华语电影／抽查确认中文字幕）
+#EXTINF:-1 group-title="香港",TVB 千禧经典台（非 Astro 305）
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"User-Agent":"Mozilla/5.0"}
-https://cdn.qd.je/163189/lhdy
+https://cdn.qd.je/163189/tvbc
 
 #EXTINF:-1 tvg-id="LungHuaCartoon.tw" group-title="儿童频道",龙华卡通（台湾）
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -117,42 +147,6 @@ https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTHTTP:{"User-Agent":"Mozilla/5.0"}
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-
-
-#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" group-title="西洋影集（中文字幕）",AXN 台湾（西洋影集／抽查确认中文字幕）
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
-http://125.227.210.55:4050/VideoInput/play.ts
-
-#EXTINF:-1 group-title="马来西亚",Astro AEC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
-https://cdn.qd.je/163189/aec
-
-#EXTINF:-1 group-title="马来西亚中文电影",天映频道 Celestial Movies（马来西亚源）
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
-https://cdn.qd.je/163189/typd2
-
-#EXTINF:-1 group-title="马来西亚中文电影",天映经典 CCM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
-https://cdn.qd.je/163189/ccm2
-
-#EXTINF:-1 group-title="马来西亚港剧",Astro AOD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
-https://cdn.qd.je/163189/aod
-
-#EXTINF:-1 group-title="TVB 港剧",TVB 星河
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
-https://cdn.qd.je/163189/tvbxh2
-
-#EXTINF:-1 group-title="TVB 经典港剧",TVB 千禧经典台（非 Astro 305）
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTHTTP:{"User-Agent":"Mozilla/5.0"}
-https://cdn.qd.je/163189/tvbc
 
 #EXTINF:-1 group-title="英语电影（不保证中文字幕）",Gravitas Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
